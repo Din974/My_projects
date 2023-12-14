@@ -41,7 +41,7 @@ export function enemy_attack(action:actions) : actions {
 
 export async function main_base_game()
 {
-    let link:charactere = {id: 1, name:"Link", hp_max : 60, current_hp : 60, strength : 500, encounter: true};
+    let link:charactere = {id: 1, name:"Link", hp_max : 60, current_hp : 60, strength : 15, encounter: true};
     let id = 1;
     let current_ennemy:boolean = false;
     let linkDied:boolean = false;
