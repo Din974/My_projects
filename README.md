@@ -37,3 +37,7 @@ my_printf est une reproduction de la fonction printf en langage C.
 ## my_sokoban
 
 my_sokoban est une reproduction du jeu Sokoban en langage C, utilisant la bibliothèque ncurses pour l'interface utilisateur.
+
+## 99problems
+
+99problems est un projet ajouté récemment, contenant plusieurs petits défis. Chacun d'eux a son propre README détaillant en quoi consiste le défi et comment je l'ai réalisé.
