@@ -10,7 +10,9 @@ Pour compiler Antman et Giantman, exécutez la commande `make` à la racine du p
 
 Pour compresser un fichier texte, utilisez la commande suivante à la racine du projet :
 
+```
 ./antman/antman [nom du fichier à compresser] > [nom du fichier qui sera créé]
+```
 
 Par exemple : ./antman/antman lyr1.txt > texte_compressé.txt
 
@@ -20,7 +22,9 @@ Dans ce cas là le fichier texte_compressé.txt contiendra le fichier lyr1.txt c
 
 Pour décompresser un fichier compressé par Antman, utilisez la commande suivante à la racine du projet :
 
-./antman/antman [nom du fichier à décompresser] (> [nom du fichier qui sera créé])
+```
+./giantman/giantman [nom du fichier à décompresser] (> [nom du fichier qui sera créé])
+```
 
 Par exemple : ./giantman/giantman texte_compressé.txt (> texte_decompressé.txt)
 
