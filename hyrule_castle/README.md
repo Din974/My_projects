@@ -28,9 +28,11 @@ Hyrule Castle est un jeu RPG tour par tour développé en TypeScript. Plongez da
 
    ```
    npm install
+   ```
 
    ou si cette commande ne fonctionne pas
 
+   ```
    npm i --save-dev @types/node
    ```
 
