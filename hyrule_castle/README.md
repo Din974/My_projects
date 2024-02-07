@@ -4,19 +4,13 @@ Hyrule Castle est un jeu RPG tour par tour développé en TypeScript. Plongez da
 
 ## Installation
 
-1. **Clonage du dépôt GitHub :**
-
-   ```
-   git clone https://github.com/votre-utilisateur/hyrule_castle.git
-   ```
-
-2. **Accès au répertoire du jeu :**
+1. **Accès au répertoire du jeu :**
 
    ```
    cd hyrule_castle
    ```
 
-3. **Choix entre le jeu de base ou un jeu modifié :**
+2. **Choix entre le jeu de base ou un jeu modifié :**
 
    - Pour le jeu de base :
 
@@ -30,7 +24,7 @@ Hyrule Castle est un jeu RPG tour par tour développé en TypeScript. Plongez da
      cd mods
      ```
 
-4. **Installation des dépendances :**
+3. **Installation des dépendances :**
 
    ```
    npm install
