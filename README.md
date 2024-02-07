@@ -2,6 +2,10 @@
 
 Ce dépôt GitHub regroupe plusieurs projets réalisés dans différents langages de programmation. Chaque projet est destiné à démontrer mes compétences et mon intérêt pour divers domaines de développement logiciel.
 
+Chaque dossier contient les fichiers sources, ainsi que des instructions pour la compilation et l'exécution des programmes.
+
+N'hésitez pas à explorer les différents projets !
+
 ## Antman
 
 Antman est un programme écrit en C qui propose des fonctionnalités de compression et de décompression de fichiers texte.
@@ -33,7 +37,3 @@ my_printf est une reproduction de la fonction printf en langage C.
 ## my_sokoban
 
 my_sokoban est une reproduction du jeu Sokoban en langage C, utilisant la bibliothèque ncurses pour l'interface utilisateur.
-
-Chaque dossier contient les fichiers sources, ainsi que des instructions pour la compilation et l'exécution des programmes.
-
-N'hésitez pas à explorer les différents projets !
