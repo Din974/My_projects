@@ -41,3 +41,7 @@ my_sokoban est une reproduction du jeu Sokoban en langage C, utilisant la biblio
 ## 99problems
 
 99problems est un projet ajouté récemment, contenant plusieurs petits défis que j'ai réalisés en python. Chacun d'eux a son propre README détaillant en quoi consiste le défi et comment je l'ai réalisé.
+
+## PROJET C2W
+
+PROJET C2W est une API en Node.js qui permet d'exécuter différentes requêtes CRUD sur un produit choisi par l'utilisateur. Pour effectuer certaines actions, l'utilisateur doit se connecter et être administrateur. La base de données choisie est MySQL.
