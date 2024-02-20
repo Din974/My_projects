@@ -2,9 +2,9 @@ const mysql = require('mysql');
 
 const dbConfig = {
   host: 'localhost',
-  user: 'root',
-  password: 'Din9743890.',
-  database: 'api_db',
+  user: 'votre-utilisateur',
+  password: 'votre-mot-de-passe',
+  database: 'votre-base-de-données',
 };
 
 const connection = mysql.createConnection(dbConfig);
